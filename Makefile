@@ -1,5 +1,3 @@
-#!/usr/bin/make -f
-
 BINARY_NAME=goodperson
 INSTALL_PATH=/usr/local/bin
 VERSION=0.2.0
