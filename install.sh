@@ -10,5 +10,4 @@ else
 fi
 echo "Done! Type 'goodperson' to run the daily systems check."
 echo
-
 echo "You can also run directly with: go run .   or   bash goodperson.sh"
